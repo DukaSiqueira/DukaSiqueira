@@ -1,6 +1,6 @@
 ### Sobre mim 👋
 Olá! Sou Eduardo Siqueira, um entusiasta de tecnologia e desenvolvedor de software. Atualmente, ocupo a posição de Tech Lead na MANFING, onde aplico minha paixão por desenvolvimento e liderança para impulsionar projetos inovadores.
-Com mais de 2 anos de experiência na área de desenvolvimento de software, tive a oportunidade de trabalhar em diversos projetos desafiadores, o que me permitiu explorar diferentes tecnologias e aprimorar minhas habilidades técnicas.
+Com mais de 3 anos de experiência na área de desenvolvimento de software, tive a oportunidade de trabalhar em diversos projetos desafiadores, o que me permitiu explorar diferentes tecnologias e aprimorar minhas habilidades técnicas.
 
 ### Especialização 🚀
 Meu foco principal é o desenvolvimento backend, onde tenho experiência e especialização na construção de aplicações web escaláveis e de alto desempenho. Minha paixão por resolver desafios complexos e meu compromisso com a excelência resultaram em habilidades sólidas em várias tecnologias e ferramentas.
