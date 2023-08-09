@@ -15,5 +15,4 @@ Estou sempre buscando aprimorar minhas habilidades técnicas e aprender novas te
 
 ### 📊 GitHub Status:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DukaSiqueira&theme=dark&hide_border=false" width="418px" alt="GitHub Streak">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DukaSiqueira&theme=dark&hide_border=false)](https://github.com/DukaSiqueira)
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
