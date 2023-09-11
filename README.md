@@ -14,4 +14,4 @@ Estou sempre buscando aprimorar minhas habilidades técnicas e aprender novas te
 <a href="https://www.instagram.com/eduh.siqueira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/eduardo-siqueira-a997861a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ### 📊 GitHub Status:
-<img src="https://streak-stats.demolab.com?user=DukaSiqueira&theme=dark&border_radius=5&exclude_days=Sun%2CSat&card_width=400" /> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=DukaSiqueira&theme=dark&exclude_days=Sun%2CSat"/> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
