@@ -1,5 +1,5 @@
 ### 👋 Sobre mim 
-Olá! Sou Eduardo Siqueira, um entusiasta de tecnologia e desenvolvedor de software. Atualmente, ocupo a posição de Desenvolvedor FullStack na Go Ingressos, onde aplico minha paixão por desenvolvimento e liderança para impulsionar projetos inovadores.
+Olá! Sou Eduardo Siqueira, um entusiasta de tecnologia e desenvolvedor de software. Atualmente, ocupo a posição de Desenvolvedor Full Stack na Go Ingressos, onde aplico minha paixão por desenvolvimento e liderança para impulsionar projetos inovadores.
 Com mais de 3 anos de experiência na área de desenvolvimento de software, tive a oportunidade de trabalhar em diversos projetos desafiadores, o que me permitiu explorar diferentes tecnologias e aprimorar minhas habilidades técnicas.
 
 ### 🚀 Especialização
