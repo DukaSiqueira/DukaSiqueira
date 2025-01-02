@@ -3,6 +3,7 @@ Olá! Sou Eduardo Siqueira, um entusiasta de tecnologia e desenvolvedor de softw
 Com mais de 6 anos de experiência na área de desenvolvimento de software, tive a oportunidade de trabalhar em diversos projetos desafiadores, o que me permitiu explorar diferentes tecnologias e aprimorar minhas habilidades técnicas.
 
 
+
 ### 🚀 Especialização
 Meu foco principal é o desenvolvimento backend, onde tenho experiência e especialização na construção de aplicações web escaláveis e de alto desempenho. Minha paixão por resolver desafios complexos e meu compromisso com a excelência resultaram em habilidades sólidas em várias tecnologias e ferramentas.
 Minha abordagem no desenvolvimento backend combina criatividade com habilidades sólidas em resolução de problemas, permitindo criar experiências de usuário únicas e envolventes.
