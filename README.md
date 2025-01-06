@@ -1,19 +1,14 @@
-### 👋 Sobre mim 
-Olá! Sou Eduardo Siqueira, um entusiasta de tecnologia e desenvolvedor de software. Atualmente, ocupo a posição de Desenvolvedor Full Stack na Go Ingressos, onde aplico minha paixão por desenvolvimento e liderança para impulsionar projetos inovadores.
-Com mais de 6 anos de experiência na área de desenvolvimento de software, tive a oportunidade de trabalhar em diversos projetos desafiadores, o que me permitiu explorar diferentes tecnologias e aprimorar minhas habilidades técnicas.
+### 👋 About me 
+Hi, I'm Eduardo Siqueira, a technology enthusiast and Full Stack developer at Go Ingressos since 2024 with 6 years of experience in php/Laravel, node, React, Next, React native. I'm constantly looking to improve my skills and contribute to innovative projects.
 
+### 🚀 Specialization
+Specialist in backend development with 6 years experience. Proficient in php/Laravel, node, React and Next to create robust and efficient solutions. Proven ability in performance optimization, systems architecture, team management, requirements analysis. I work with a focus on delivering high quality, scalable projects.
 
-
-### 🚀 Especialização
-Meu foco principal é o desenvolvimento backend, onde tenho experiência e especialização na construção de aplicações web escaláveis e de alto desempenho. Minha paixão por resolver desafios complexos e meu compromisso com a excelência resultaram em habilidades sólidas em várias tecnologias e ferramentas.
-Minha abordagem no desenvolvimento backend combina criatividade com habilidades sólidas em resolução de problemas, permitindo criar experiências de usuário únicas e envolventes.
-Estou sempre buscando aprimorar minhas habilidades técnicas e aprender novas tecnologias para estar atualizado com as tendências mais recentes do mercado. Acredito que a busca constante pelo conhecimento é essencial para oferecer soluções inovadoras e eficazes.
-
-### 💻 Tecnologias
+### 💻 Technologies
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node&logoColor=white) ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Redes Sociais:
+### 🌐 Social networks:
 <a href="https://www.instagram.com/eduh.siqueira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://www.linkedin.com/in/eduardo-siqueira-a997861a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 
