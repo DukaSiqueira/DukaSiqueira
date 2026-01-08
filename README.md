@@ -86,30 +86,6 @@ const eduardo = {
 
 ---
 
-## 🏆 Conquistas
-
-```
-✨ 6 anos de experiência em desenvolvimento
-🚀 Especialista em arquitetura de sistemas
-💡 Foco em performance e otimização
-👥 Experiência em liderança de equipes
-📚 Aprendizado contínuo e atualização constante
-```
-
----
-
-## 💡 Filosofia de Trabalho
-
-> "Código limpo, arquitetura sólida e entrega de valor são os pilares de um bom desenvolvedor."
-
-- ✅ Escrever código limpo e manutenível
-- ✅ Priorizar performance e escalabilidade
-- ✅ Colaboração e trabalho em equipe
-- ✅ Aprendizado contínuo
-- ✅ Foco em soluções que geram impacto
-
----
-
 ## 📫 Vamos conversar?
 
 Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado!
