@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Olá, eu sou Eduardo Siqueira!
+# Olá, eu sou Eduardo Siqueira!
 
-### Full Stack Developer | 6 anos de experiência | Especialista em Backend
+### Engenheiro de Software | 7 anos de experiência | Especialista em Backend
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-a997861a1/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduh.siqueira/)
@@ -11,15 +11,15 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia com **6 anos de experiência** criando soluções robustas e escaláveis. Atualmente na **Go Ingressos** desde 2024, onde trabalho desenvolvendo sistemas de alta performance e arquiteturas eficientes.
+Engenheiro de Software apaixonado por tecnologia com **7 anos de experiência** criando soluções robustas, escaláveis e ajudando pessoas e empresas a alcançarem seus objetivos através da tecnologia. Atualmente na **KarHub** desde 2026, onde trabalho desenvolvendo sistemas de alta performance e arquiteturas eficientes para o ramo de e-commerce focado na venda de peças para automóveis.
 
 ```javascript
 const eduardo = {
-    cargo: "Full Stack Developer",
-    empresa: "Go Ingressos",
-    experiencia: "6 anos",
+    cargo: "Engenheiro de Software",
+    empresa: "KarHub",
+    experiencia: "7 anos",
     especialidade: "Backend Development",
     foco: ["Performance", "Arquitetura", "Escalabilidade"],
     mentalidade: "Aprendizado contínuo e inovação"
@@ -32,22 +32,21 @@ const eduardo = {
 
 🎯 **Backend Development Specialist**
 
-- 🏗️ Arquitetura de sistemas robustos e escaláveis
-- ⚡ Otimização de performance e eficiência
-- 👥 Gestão de equipes e liderança técnica
-- 📋 Análise de requisitos e planejamento
-- 🔄 Entrega de projetos de alta qualidade
+- Arquitetura de sistemas robustos e escaláveis
+- Otimização de performance e eficiência
+- Gestão de equipes e liderança técnica
+- Análise de requisitos e planejamento
+- Entrega de projetos de alta qualidade
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -66,7 +65,7 @@ const eduardo = {
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ---
 
 ## 📊 GitHub Analytics
