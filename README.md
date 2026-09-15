@@ -1,85 +1,128 @@
 <div align="center">
-  
-# Olá, eu sou Eduardo Siqueira!
 
-### Engenheiro de Software | 7 anos de experiência | Especialista em Backend
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F6FEB&height=200&section=header&text=Eduardo%20Siqueira&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Eduardo Siqueira"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-a997861a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduh.siqueira/)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+com+Go+e+PHP%2FLaravel;DDD+%E2%80%A2+Clean+Architecture+%E2%80%A2+Hexagonal;Pagamentos%2C+split+e+gateways;7+anos+transformando+neg%C3%B3cio+em+c%C3%B3digo" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-a997861a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduh.siqueira/)
+![Profile Views](https://komarev.com/ghpvc/?username=DukaSiqueira&color=1F6FEB&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Engenheiro de Software apaixonado por tecnologia com **7 anos de experiência** criando soluções robustas, escaláveis e ajudando pessoas e empresas a alcançarem seus objetivos através da tecnologia. Atualmente na **KarHub** desde 2026, onde trabalho desenvolvendo sistemas de alta performance e arquiteturas eficientes para o ramo de e-commerce focado na venda de peças para automóveis.
+Engenheiro de Software com **7 anos de experiência** criando soluções robustas e escaláveis, ajudando pessoas e empresas a alcançarem seus objetivos através da tecnologia.
 
-```javascript
-const eduardo = {
-    cargo: "Engenheiro de Software",
-    empresa: "KarHub",
-    experiencia: "7 anos",
-    especialidade: "Backend Development",
-    foco: ["Performance", "Arquitetura", "Escalabilidade"],
-    mentalidade: "Aprendizado contínuo e inovação"
-};
+Atualmente na **KarHub**, desenvolvendo sistemas de alta performance e arquiteturas eficientes para um e-commerce focado na venda de peças automotivas.
+
+```go
+eduardo := Engineer{
+    Role:         "Engenheiro de Software",
+    Company:      "KarHub",
+    Experience:   "7 anos",
+    Specialty:    "Backend Development",
+    Architecture: []string{"DDD", "Clean Architecture", "Hexagonal"},
+    Focus:        []string{"Performance", "Arquitetura", "Escalabilidade"},
+    Mindset:      "Aprendizado contínuo e inovação",
+}
 ```
 
 ---
 
 ## 💼 Especialização
 
-🎯 **Backend Development Specialist**
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- Arquitetura de sistemas robustos e escaláveis
+**🏗️ Arquitetura**
+- Sistemas robustos e escaláveis
+- DDD, Clean Architecture e Hexagonal
 - Otimização de performance e eficiência
+
+    </td>
+    <td valign="top" width="50%">
+
+**💳 Sistemas financeiros**
+- Split de pagamentos
+- Integrações com gateways
+- Regras de negócio críticas
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**🤝 Liderança**
 - Gestão de equipes e liderança técnica
 - Análise de requisitos e planejamento
-- Entrega de projetos de alta qualidade
+
+    </td>
+    <td valign="top" width="50%">
+
+**🚀 Entrega**
+- Projetos de alta qualidade
+- Foco em valor para o negócio
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+**Backend**
 
-### Mobile
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs&theme=dark" alt="Backend"/>
 
-### Database & DevOps
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,vue&theme=dark" alt="Frontend"/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" alt="Mobile"/>
+
+**Database & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,kubernetes&theme=dark" alt="Database e DevOps"/>
+
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DukaSiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DukaSiqueira&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=1F6FEB&ring_color=1F6FEB&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DukaSiqueira&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DukaSiqueira&exclude_days=Sun,Sat&locale=pt_BR&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&excludeDaysLabel=8B949E&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DukaSiqueira&bg_color=0D1117&color=FFFFFF&title_color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DukaSiqueira/DukaSiqueira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DukaSiqueira/DukaSiqueira/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/DukaSiqueira/DukaSiqueira/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -89,15 +132,13 @@ const eduardo = {
 
 Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-a997861a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduh.siqueira/)
-
----
-
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-a997861a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduh.siqueira/)
 
 ### 💻 "Code is poetry, architecture is art" 💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=DukaSiqueira&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:000000&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
